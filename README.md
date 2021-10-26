@@ -7,3 +7,4 @@
 * dos
 * tres
 * 
+* si cambio en la url github.com por github.dev me voy al editor developer
