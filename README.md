@@ -14,7 +14,7 @@ Experiencia Laboral
 2. Responsable de mejora continua de la planta de Tenerife desde 2014
 3. Responsable de línea de producción desde 2011
 
-![CC Logo](https://upload.wikimedia.org/wikipedia/commons/d/dd/Coca-Cola_logo_white.png)
+![CC Logo](https://logos-marcas.com/coca-cola-logo/)
 
 
 ## Título
