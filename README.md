@@ -11,6 +11,9 @@ Estudios | Ingeniería Industrial
 
 ![Uned logo](http://portal.uned.es/NUEVOWEB/IMAGENES/logo_uned.gif)
 
+<img width=50 src="http://portal.uned.es/NUEVOWEB/IMAGENES/logo_uned.gif">
+
+
 Experiencia Laboral
 1. Responsable de mantenimiento en Coca-Cola desde 2019
 2. Responsable de mejora continua de la planta de Tenerife desde 2014
@@ -18,6 +21,7 @@ Experiencia Laboral
 
 
 ![ULL Logo](logo-ull.jpg)
+
 
 # :smiley:
 
@@ -39,15 +43,18 @@ Experiencia Laboral
 * si cambio en la url github.com por github.dev me voy al editor developer
 
 
-F1 es chuleta de comandos es lo mismo que crtl+shift+p
+1. F1 es chuleta de comandos es lo mismo que crtl+shift+p
 
-ctrl+s para guardar
-ls en terminal es la lista de archivos
+2. ctrl+s para guardar
 
-ls -a muestra los archivos ocultos
+3. ls en terminal es la lista de archivos
 
-git log en la terminal muestra los commit
+4. ls -a muestra los archivos ocultos
 
-push en el menú de commit para guardar cambios en github
+5. git log en la terminal muestra los commit
+
+6. push en el menú de commit para guardar cambios en github
+
+7. fork en github copia el repositorio
 
 
