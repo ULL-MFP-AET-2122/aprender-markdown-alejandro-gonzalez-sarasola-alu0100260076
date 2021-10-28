@@ -17,6 +17,7 @@ Experiencia Laboral
 
 ![ULL Logo](logo-ull.jpg)
 
+:smiley:
 
 ## Título
 *AlejandroGonzalez*
@@ -31,4 +32,5 @@ Experiencia Laboral
 
 
 F1 es chuleta de comandos es lo mismo que crtl+shift+p
+
 ctrl+s para guardar
