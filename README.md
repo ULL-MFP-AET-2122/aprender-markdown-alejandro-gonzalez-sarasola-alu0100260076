@@ -19,6 +19,12 @@ Experiencia Laboral
 
 :smiley:
 
+:+1:
+
+:):
+
+
+
 ## Título
 *AlejandroGonzalez*
 
@@ -34,3 +40,6 @@ Experiencia Laboral
 F1 es chuleta de comandos es lo mismo que crtl+shift+p
 
 ctrl+s para guardar
+ls en terminal es la lista de archivos
+
+ls -a muestra los archivos ocultos
