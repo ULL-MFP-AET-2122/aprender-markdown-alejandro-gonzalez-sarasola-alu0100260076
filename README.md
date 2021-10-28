@@ -14,7 +14,8 @@ Experiencia Laboral
 2. Responsable de mejora continua de la planta de Tenerife desde 2014
 3. Responsable de línea de producción desde 2011
 
-![CC Logo](https://logos-marcas.com/coca-cola-logo/)
+
+![ULL Logo](logo-ull.jpg)
 
 
 ## Título
@@ -27,3 +28,7 @@ Experiencia Laboral
 * tres
 * 
 * si cambio en la url github.com por github.dev me voy al editor developer
+
+
+F1 es chuleta de comandos es lo mismo que crtl+shift+p
+ctrl+s para guardar
