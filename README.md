@@ -2,6 +2,8 @@
 
 ## CURRICULUM VITAE
 
+![ull logo](ull.gif)
+
 Nombre | Alejandro Gonzalez 
 -------|--------
 Edad | 38
