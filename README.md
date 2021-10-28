@@ -1,8 +1,8 @@
-# aprender-markdown-alejandro-gonzalez-sarasola-alu0100260076
+# aprender-markdown-alejandro-glez-alu0100260076
 
 ## CURRICULUM VITAE
 
-Nombre | Alejandro Gonzalez Sarasola
+Nombre | Alejandro Gonzalez 
 -------|--------
 Edad | 38
 Estudios | Ingeniería Industrial
