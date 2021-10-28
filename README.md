@@ -19,7 +19,7 @@ Experiencia Laboral
 
 ![ULL Logo](logo-ull.jpg)
 
-:smiley:
+# :smiley:
 
 :+1:
 
@@ -45,3 +45,9 @@ ctrl+s para guardar
 ls en terminal es la lista de archivos
 
 ls -a muestra los archivos ocultos
+
+git log en la terminal muestra los commit
+
+push en el menú de commit para guardar cambios en github
+
+
