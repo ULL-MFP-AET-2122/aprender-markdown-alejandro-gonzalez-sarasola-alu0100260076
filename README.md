@@ -1,4 +1,3 @@
-# aprender-markdown-alejandro-glez-alu0100260076
 
 # CURRICULUM VITAE
 
@@ -22,13 +21,41 @@ Estudios | Ingeniería Industrial
 3. Responsable de línea de producción desde **2011**
 
 
-![ULL Logo](logo-ull.jpg =100x)
+
 
 
 [GitHub](http://github.com)
 
 #Citando a José Mújica
-> Cuando tú compras algo, no lo pagas con dinero, lo pagas con el tiempo que gastaste en ganar ese dinero
+> Cuando tú compras algo, 
+>no lo pagas con dinero, 
+>lo pagas con el tiempo que gastaste en ganar ese dinero
+
+
+
+
+    function fancyAlert(arg) {
+    if(arg) {
+        $.facebox({div:'#foo'})
+    }
+}
+
+master.md
+
+Falta imagen enlace
+
+
+
+
+
+
+
+
+
+![ULL Logo](logo-ull.jpg)
+
+
+
 
 * uno
 * dos
