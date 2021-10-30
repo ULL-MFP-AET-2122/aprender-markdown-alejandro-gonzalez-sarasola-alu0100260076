@@ -1,40 +1,34 @@
 # aprender-markdown-alejandro-glez-alu0100260076
 
-## CURRICULUM VITAE
+# CURRICULUM VITAE
 
-![ull logo](ull.gif)
+
 
 Nombre | Alejandro Gonzalez 
 -------|--------
 Edad | 38
-Estudios | Ingeniería Industrial
-
-![Uned logo](http://portal.uned.es/NUEVOWEB/IMAGENES/logo_uned.gif)
-
+Estudios | Ingeniería Industrial 
 <img width=50 src="http://portal.uned.es/NUEVOWEB/IMAGENES/logo_uned.gif">
 
+## Actualmente cursando: Master de Profesador de secundaria en la Universidad de La Laguna # :smiley:
 
-Experiencia Laboral
-1. Responsable de mantenimiento en Coca-Cola desde 2019
-2. Responsable de mejora continua de la planta de Tenerife desde 2014
-3. Responsable de línea de producción desde 2011
+![ull logo](ull.gif)
 
+[Enlace al campus virtual del alumno](https://campusdoctoradoyposgrado2122.ull.es/user/profile.php?id=4825)
 
-![ULL Logo](logo-ull.jpg)
-
-
-# :smiley:
-
-:+1:
-
-:):
+*Experiencia Laboral* :+1:
+1. Responsable de mantenimiento en Coca-Cola desde **2019**
+2. Responsable de mejora continua de la planta de Tenerife desde **2014**
+3. Responsable de línea de producción desde **2011**
 
 
+![ULL Logo](logo-ull.jpg =100x)
 
-## Título
-*AlejandroGonzalez*
 
 [GitHub](http://github.com)
+
+#Citando a José Mújica
+> Cuando tú compras algo, no lo pagas con dinero, lo pagas con el tiempo que gastaste en ganar ese dinero
 
 * uno
 * dos
