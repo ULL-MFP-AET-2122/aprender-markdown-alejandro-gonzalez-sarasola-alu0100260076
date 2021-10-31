@@ -33,13 +33,13 @@ Estudios | Ingeniería Industrial
 
 
 
-
+```javascript
     function fancyAlert(arg) {
     if(arg) {
         $.facebox({div:'#foo'})
     }
 }
-
+```
 master.md
 
 Falta imagen enlace
@@ -52,7 +52,7 @@ Falta imagen enlace
 
 
 
-![ULL Logo](logo-ull.jpg)
+![[ULL Logo](logo-ull.jpg)](https://www.ull.es/)
 
 
 
