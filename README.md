@@ -24,15 +24,15 @@ Estudios | Ingeniería Industrial
 [Enlace a master.md](https://github.com/ULL-MFP-AET-2122/aprender-markdown-alejandro-gonzalez-sarasola-alu0100260076/blob/main/master.md)
 
 
-[GitHub](http://github.com)
+[Enlace directo a web de GitHub](http://github.com)
 
+### Blockquote
 #Citando a José Mújica
 > Cuando tú compras algo, 
 >no lo pagas con dinero, 
 >lo pagas con el tiempo que gastaste en ganar ese dinero
 
-
-
+### Introducir código en el archivo 
 ```javascript
     function fancyAlert(arg) {
     if(arg) {
@@ -40,8 +40,8 @@ Estudios | Ingeniería Industrial
     }
 }
 ```
-master.md
 
 
+Haz *click* en la siguiente imagen para direccionarte a la web de la ULL.
 [![ULL Logo](logo-ull.jpg)](https://www.ull.es/)
 
