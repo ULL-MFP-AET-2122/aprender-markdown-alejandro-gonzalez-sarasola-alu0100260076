@@ -42,40 +42,6 @@ Estudios | Ingeniería Industrial
 ```
 master.md
 
-Falta imagen enlace
-
-
-
-
-
-
-
-
 
 [![ULL Logo](logo-ull.jpg)](https://www.ull.es/)
-
-
-
-
-* uno
-* dos
-* tres
-* 
-* si cambio en la url github.com por github.dev me voy al editor developer
-
-
-1. F1 es chuleta de comandos es lo mismo que crtl+shift+p
-
-2. ctrl+s para guardar
-
-3. ls en terminal es la lista de archivos
-
-4. ls -a muestra los archivos ocultos
-
-5. git log en la terminal muestra los commit
-
-6. push en el menú de commit para guardar cambios en github
-
-7. fork en github copia el repositorio
-
 
