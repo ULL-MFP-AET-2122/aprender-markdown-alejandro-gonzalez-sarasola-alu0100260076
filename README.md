@@ -52,7 +52,7 @@ Falta imagen enlace
 
 
 
-![[ULL Logo](logo-ull.jpg)](https://www.ull.es/)
+[![ULL Logo](logo-ull.jpg)](https://www.ull.es/)
 
 
 
