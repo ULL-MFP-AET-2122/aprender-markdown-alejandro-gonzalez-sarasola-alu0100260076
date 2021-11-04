@@ -12,7 +12,7 @@ Estudios | Ingeniería Industrial
 ## Actualmente cursando: Master de Profesador de secundaria en la Universidad de La Laguna # :smiley:
 
 
-<img width=20 src="http://ceadtenerife.es/web/wp-content/uploads/2018/10/logo-ull.jpg">
+<img width=70 src="http://ceadtenerife.es/web/wp-content/uploads/2018/10/logo-ull.jpg">
 
 
 [Enlace al campus virtual del alumno](https://campusdoctoradoyposgrado2122.ull.es/user/profile.php?id=4825)
